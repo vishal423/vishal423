@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Source Karma badge for @vishal423](https://sourcekarma-og.vercel.app/api/vishal423/github)](https://sourcekarma.vercel.app/vishal423)
 
 <!--
 **vishal423/vishal423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

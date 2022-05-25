@@ -1,4 +1,8 @@
-[![Source Karma badge for @vishal423](https://sourcekarma-og.vercel.app/api/vishal423/github)](https://sourcekarma.vercel.app/vishal423)
+I am an open-source software enthusiast and loves to contribute to the community. 
+
+I started my OSS journey with contributions to the [JHipster](https://www.jhipster.tech) project and became part of the core team. 
+
+Nowadays, I am focused on the [JHipster Svelte](https://github.com/jhipster/generator-jhipster-svelte) blueprint to generate production-ready JHipster applications with [Svelte/Kit](https://kit.svelte.dev) as a frontend framework.
 
 <!--
 **vishal423/vishal423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

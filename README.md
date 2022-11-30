@@ -2,7 +2,9 @@ I am an open-source software enthusiast and loves to contribute to the community
 
 I started my OSS journey with contributions to the [JHipster](https://www.jhipster.tech) project and became part of the core team. 
 
-Nowadays, I am focused on the [JHipster Svelte](https://github.com/jhipster/generator-jhipster-svelte) blueprint to generate production-ready JHipster applications with [Svelte/Kit](https://kit.svelte.dev) as a frontend framework.
+Nowadays, I am focused on:
+- [JHipster Svelte](https://github.com/jhipster/generator-jhipster-svelte) blueprint to generate production-ready JHipster applications with [Svelte/Kit](https://kit.svelte.dev) as a frontend framework.
+- [JHipster Quarkus](https://github.com/jhipster/generator-jhipster-quarkus) blueprint to generate production-ready JHipster applications with [Quarkus](https://quarkus.io/) as the backend framework.
 
 <!--
 **vishal423/vishal423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
